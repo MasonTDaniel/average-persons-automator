@@ -3,7 +3,7 @@ A simple, customizable AutoHotkey script that allows you to perform your routine
 
 # How to use
 1. Install AutoHotKey at https://www.autohotkey.com/, courtesy of the AutoHotkey Foundation
-2. Download script or save the code in a text editor (not Notepad) with the extension .ahk
+2. Save the code in a text editor (not Notepad) with the extension .ahk
 3. Double click to begin the script
 4. Press Ctrl+Esc at any time to end the script
 5. (Optional) Place this script in your startup folder so that it runs on startup
